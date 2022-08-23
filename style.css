@@ -99,6 +99,52 @@ section {
 
 .hr {
     width: 50%;
+    margin-bottom: 20px;
+}
+
+.donation {
+    display: flex;
+}
+
+.donation-plan h1 {
+    font-size: 40px;
+}
+
+.donation-plan h1,
+p {
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.food {
+    border-radius: 5px;
+    background-color: rgba(65, 156, 126, 0.116);
+    border: 1px solid rgba(67, 67, 97, 0.219);
+    padding-left: 10px;
+    padding-top: 30px;
+    width: 25%;
+    margin-left: 5%;
+}
+
+.shelter {
+    border-radius: 5px;
+    background-color: rgba(81, 235, 10, 0.116);
+    border: 1px solid rgba(67, 67, 97, 0.219);
+    padding-left: 10px;
+    padding-top: 30px;
+    width: 25%;
+    margin-left: 5%;
+}
+
+.education {
+    border-radius: 5px;
+    background-color: rgba(182, 37, 110, 0.116);
+    border: 1px solid rgba(67, 67, 97, 0.219);
+    padding-left: 10px;
+    padding-top: 30px;
+    width: 25%;
+    margin-left: 5%;
 }
 
 #footh3 {
