@@ -41,6 +41,11 @@ section {
     font-weight: 700;
 }
 
+#donate-now {
+    padding: 10px 15px 10px 15px;
+    border-radius: ;
+}
+
 .donate-text {
     text-align: center;
 }
@@ -117,6 +122,31 @@ p {
     margin-bottom: 40px;
 }
 
+.about-fix {
+    background-color: rgba(127, 255, 212, 0.247);
+    display: flex;
+    border: 0px solid salmon;
+    margin: 30px;
+}
+
+.about h3 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.about-para {
+
+
+    width: 40%;
+    padding: 20px;
+    margin: auto;
+}
+
+.about-para img {
+    width: 80%;
+
+}
+
 .food {
     border-radius: 5px;
     background-color: rgba(65, 156, 126, 0.116);
@@ -145,6 +175,24 @@ p {
     padding-top: 30px;
     width: 25%;
     margin-left: 5%;
+}
+
+.update h1 {
+    font-size: 40px;
+}
+
+.update {
+    text-align: center;
+}
+
+.email {
+    text-align: center;
+    background-color: #fff4d6;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 76px 188px;
+    margin-top: 50px;
 }
 
 #footh3 {
